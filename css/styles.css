@@ -1,0 +1,27 @@
+body{
+  background-color: #c6ebc9;
+  font-family: arial, monospace;
+  text-align: justify;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+h1{
+  color: #433d3c;
+  font-family:georgia,sans-serif;
+}
+
+h2{
+  color: #2c061f;
+  font-family: georgia,sans-serif;
+}
+
+img{
+  border-radius: 50%;
+}
